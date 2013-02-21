@@ -39,6 +39,14 @@
         margin: 6px 0 12px;
       }
 
+      .picLeft {
+        margin-right: 20px;
+      }
+
+      .picRight {
+        margin-left: 20px;
+      }
+
       .content{
         background-color: #ffffff;
         width: 775px; 
