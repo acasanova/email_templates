@@ -93,10 +93,7 @@
                   <img src="LOGO_HERE" class="logo" />
                 </td>
                 <td>
-                  <p class="address">
-                    123 Street Name
-                    <br />Hicksville, NY 11801
-                  </p>
+                  <p class="address"></p>
                 </td>
               </tr>
             </table>
