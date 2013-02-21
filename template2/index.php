@@ -85,7 +85,7 @@
 
         <tr>
           <td colspan="2" height="135" class="header">
-            <img src="images/header.png" width="775" height="135" border="0" />
+            <img src="http://leodev.mednet-tech.com/email_assets/template2/images/header.png" width="775" height="135" border="0" />
             
             <table border="0" cellpadding="0" cellspacing="0" height="143" class="header-content">
               <tr>
@@ -116,7 +116,7 @@
 
         <tr>
           <td colspan="2">
-            <img src="images/footer.jpg" width="775" height="82" border="0" />
+            <img src="http://leodev.mednet-tech.com/email_assets/template2/images/footer.jpg" width="775" height="82" border="0" />
             <p class="copyright">Copyright (c) 2013 - Company Name, Inc.</p>
           </td>
         </tr>
