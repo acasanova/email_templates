@@ -21,6 +21,7 @@
 
       .logo{
         margin: 0 0 0 50px;
+        max-width:250px;        
       }
 
       .h1{
